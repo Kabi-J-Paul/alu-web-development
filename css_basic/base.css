@@ -1,0 +1,11 @@
+/* Base CSS - replace with official file from intranet if needed */
+body {
+margin: 0;
+padding: 0;
+}
+.works_on_smartphone {
+width: 100%;
+}
+.logo {
+font-size: 30px;
+}
